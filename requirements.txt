@@ -1,0 +1,5 @@
+librosa
+numpy
+joblib
+deepface
+tf_keras
